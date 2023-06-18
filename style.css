@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-family: Verdana;
+  font-size: 20px;
+}
+ul {
+  display: flex;
+  text-align: center;
+}
+ul li a {
+padding: 30px;
+font-size: 15px;
+font-family: verdana;
+color: blue;
+}
+.link1 {
+  display: flex
+}
+.link1 a {
+  padding: 30px;
+  color: green;
+}
